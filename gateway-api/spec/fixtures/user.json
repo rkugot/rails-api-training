@@ -1,0 +1,9 @@
+{
+    "data": {
+        "id": "1",
+        "type": "users",
+        "attributes": {
+            "api-key": "foo"
+        }
+    }
+}

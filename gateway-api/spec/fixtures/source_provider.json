@@ -1,0 +1,13 @@
+{
+    "data": {
+        "id": "3",
+        "type": "source-providers",
+        "attributes": {
+            "name": "bank",
+            "url": "api-url",
+            "address": "minsk",
+            "last-sync-at": "2019-05-03T08:15:45.140Z",
+            "active": false
+        }
+    }
+}

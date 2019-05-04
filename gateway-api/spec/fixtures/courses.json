@@ -1,0 +1,12 @@
+{
+    "data": {
+        "id": "1",
+        "type": "course-results",
+        "attributes": {
+            "usd": "2.1115",
+            "eur": "2.3655",
+            "rur": "3.2457",
+            "created-at": "2019-05-03T08:15:45.594Z"
+        }
+    }
+}
